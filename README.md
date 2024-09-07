@@ -1,5 +1,14 @@
 # Uber-Clone 
 
+<p float="left">
+  <img width="270" src="https://github.com/user-attachments/assets/ce01bda0-ef77-4c32-95fc-112e67c05e8f">
+  <img width="270" alt="Screenshot 2022-11-23 at 17 11 15" src="https://github.com/user-attachments/assets/ec3b0b15-e024-4c20-b8a4-5796879dfa95">
+</p>
+
+https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782
+https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0
+https://github.com/user-attachments/assets/2adbdc04-56ef-448b-bb92-8ed629fb9857
+
 ## App Setup
 
 Clone the repository
@@ -56,38 +65,19 @@ npm run watch
 
 You should be good to go!
 
-# Application Images
-
-<p float="left">
-  <img width="270" src="https://github.com/user-attachments/assets/ce01bda0-ef77-4c32-95fc-112e67c05e8f">
-  <img width="270" alt="Screenshot 2022-11-23 at 17 11 15" src="https://github.com/user-attachments/assets/ec3b0b15-e024-4c20-b8a4-5796879dfa95">
-  <img width="270" alt="Screenshot 2022-11-23 at 17 12 14" src="https://user-images.githubusercontent.com/108229029/203521544-3b982e89-ad62-4e63-a376-5f614acbb588.png">
-</p>
-
-
-
-
-
-
-![uber map]()
-
-
-https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0
-
-
-
-
-https://github.com/user-attachments/assets/2adbdc04-56ef-448b-bb92-8ed629fb9857
-
-
-
-![uber main screen]()
-
-
-
-
-
-
-If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW** For the tutorial i followed by John-Weeks-Dev
+If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW** For the tutorial i followed by John-Weeks-Dev!
 
 [![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203519788-671b6891-e2fb-4a68-8418-2d359df54acc.jpeg)](https://www.youtube.com/watch?v=zXpr8zaK2eA)
+
+
+##Added Changes
+
+Fully-functional links to the app like food travel hotel etc.
+
+Disturbing one-way animation replaced with fade-out animation.
+
+Other Uber options are now selectable such as UberXL and Comfort rather than hard-coded UberX.
+
+Basic waiting screen after comfirming your Uber.
+
+
