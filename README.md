@@ -71,6 +71,6 @@ You should be good to go!
 
 
 
-If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
+If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW** For the tutorial i followed by John-Weeks-Dev
 
 [![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203519788-671b6891-e2fb-4a68-8418-2d359df54acc.jpeg)](https://www.youtube.com/watch?v=zXpr8zaK2eA)
