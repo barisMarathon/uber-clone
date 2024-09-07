@@ -11,11 +11,19 @@
 https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782)
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls autoplay loop>
   <source src="https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782" type="video/mp4">
 </video>
-https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0
-https://github.com/user-attachments/assets/2adbdc04-56ef-448b-bb92-8ed629fb9857
+
+<video width="320" height="240" controls autoplay loop>
+  <source src="https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls autoplay loop>
+  <source src="https://github.com/user-attachments/assets/2adbdc04-56ef-448b-bb92-8ed629fb9857" type="video/mp4">
+</video>
+
+
 
 ## App Setup
 
