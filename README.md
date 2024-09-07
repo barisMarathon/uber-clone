@@ -7,7 +7,7 @@
 
 
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](
+[![Watch the video](https://github.com/user-attachments/assets/ce01bda0-ef77-4c32-95fc-112e67c05e8f)](
 https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782)
 https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782
 https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0
