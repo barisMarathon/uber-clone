@@ -3,6 +3,9 @@
 <p float="left">
   <img width="270" src="https://github.com/user-attachments/assets/ce01bda0-ef77-4c32-95fc-112e67c05e8f">
   <img width="270" alt="Screenshot 2022-11-23 at 17 11 15" src="https://github.com/user-attachments/assets/ec3b0b15-e024-4c20-b8a4-5796879dfa95">
+  <video width="320" height="240" controls autoplay loop>
+  <source src="https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782" type="video/mp4">
+</video>
 </p>
 
 
@@ -11,9 +14,7 @@
 https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782)
 
 
-<video width="320" height="240" controls autoplay loop>
-  <source src="https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782" type="video/mp4">
-</video>
+
 
 <video width="320" height="240" controls autoplay loop>
   <source src="https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0" type="video/mp4">
