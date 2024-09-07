@@ -21,6 +21,8 @@ You'll need to ENABLE Maps API, Directions API, Places API, and Distance Matrix 
 
 Add your new API KEY to the script inside **public/index.html**
 
+Also add your API KEY to the .env file
+
 ![Screenshot 2022-11-23 at 17 40 53](https://user-images.githubusercontent.com/108229029/203526600-42f9f3be-6e9d-4fcc-aff0-5d6c6c7e8d87.png)
 
 Now run this command to start the project 
@@ -39,8 +41,6 @@ Open another terminal
 cd server
 
 npm i
-
-cp .env.example .env
 ```
 
 Add the Google API Key to the .env
@@ -63,6 +63,27 @@ You should be good to go!
   <img width="270" alt="Screenshot 2022-11-23 at 17 11 15" src="https://user-images.githubusercontent.com/108229029/203521447-f9ad69eb-67c1-4bc5-89c2-378d7a2dd27f.png">
   <img width="270" alt="Screenshot 2022-11-23 at 17 12 14" src="https://user-images.githubusercontent.com/108229029/203521544-3b982e89-ad62-4e63-a376-5f614acbb588.png">
 </p>
+
+
+
+
+
+
+![uber map](https://github.com/user-attachments/assets/ec3b0b15-e024-4c20-b8a4-5796879dfa95)
+
+
+https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0
+
+
+
+
+https://github.com/user-attachments/assets/2adbdc04-56ef-448b-bb92-8ed629fb9857
+
+
+
+![uber main screen](https://github.com/user-attachments/assets/ce01bda0-ef77-4c32-95fc-112e67c05e8f)
+
+
 
 
 
