@@ -1,21 +1,16 @@
 # Uber-Clone 
 
-
-
-
-
 ## App Setup
 
 Clone the repository
 ```
-git clone https://github.com/John-Weeks-Dev/uber-clone.git
+git clone https://github.com/barisMarathon/uber-clone.git
 ```
 
 Open a terminal, CD in to the folder and run these commands
 ```
 npm i
 
-cp .env.example .env
 ```
 
 Now go to https://console.cloud.google.com/
@@ -53,6 +48,7 @@ Add the Google API Key to the .env
 ```
 GOOGLE_MAPS_API_KEY=keyhere
 
+cd server
 npm run watch
 ```
 
