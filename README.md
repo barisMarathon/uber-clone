@@ -5,6 +5,10 @@
   <img width="270" alt="Screenshot 2022-11-23 at 17 11 15" src="https://github.com/user-attachments/assets/ec3b0b15-e024-4c20-b8a4-5796879dfa95">
 </p>
 
+
+
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](
+https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782)
 https://github.com/user-attachments/assets/7903852a-125b-40a0-866b-a3a76fe93782
 https://github.com/user-attachments/assets/e6f7a43f-ccac-4461-b909-aef4737ad2f0
 https://github.com/user-attachments/assets/2adbdc04-56ef-448b-bb92-8ed629fb9857
@@ -70,7 +74,7 @@ If you'd like a step by step guide on how to build this just **CLICK THE IMAGE B
 [![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203519788-671b6891-e2fb-4a68-8418-2d359df54acc.jpeg)](https://www.youtube.com/watch?v=zXpr8zaK2eA)
 
 
-##Added Changes
+#Added Changes
 
 Fully-functional links to the app like food travel hotel etc.
 
