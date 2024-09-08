@@ -105,6 +105,6 @@ Disturbing one-way animation replaced with fade-out animation.
 
 Other Uber options are now selectable such as UberXL and Comfort rather than hard-coded UberX.
 
-Basic waiting screen after comfirming your Uber.
+Basic waiting screen after confirming your Uber.
 
 
